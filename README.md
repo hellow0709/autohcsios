@@ -6,4 +6,4 @@ IOS 전용 단축어도 만들었습니다.<br>
 > 시스템을 이용하면서 수신되는 정보는 서버의 별도 보관 없이 삭제됩니다.<br>
 
 
-<br><a href="https://www.icloud.com/shortcuts/d1e14ff27a9842fa8cacda1858293b64">다운로드 하기</a>
+<br><a href="https://www.icloud.com/shortcuts/d1e14ff27a9842fa8cacda1858293b64" target="_blank">>다운로드 하기</a>
