@@ -1,15 +1,20 @@
-IOS 전용 단축어도 만들었습니다.<br>
-<b>교육청</b>에서 자가진단 관련 리포지토리 삭제 요청으로 대부분의 자가진단 API가 사라졌네요. 그래서 제가 직접 제작했습니다.
+<div align="center">
+  <img width="75" src="https://user-images.githubusercontent.com/10433434/92507753-69804a00-f242-11ea-942f-ee02d7576833.png" alt="icon" align="center">
 
-> 이용약관 관련하여 안내드립니다.<br>
-> 본 시스템을 이용함으로서 발생하는 책임은 이용자에게 있습니다.<br>
-> 시스템을 이용하면서 수신되는 정보는 서버의 별도 보관 없이 삭제됩니다.<br>
+  <h2>건강상태 자가진단 단축어</h2>
+  <a href="https://toss.me/hasuhan" title="개발자 후원하러 가기">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black">
+  </a>
+</div>
 
-<b><font size='100px'>현재 9월 27일까지 서비스가 중단됩니다. 9월 27일 이후로 서비스가 재개되므로 참고바랍니다.</font></b>
-<br>[다운로드 하기](https://www.icloud.com/shortcuts/d1e14ff27a9842fa8cacda1858293b64)
-<br><br><br>
+## 서비스 일시 중단 안내
 
-<br><b>Release</b><br>
-20220927 - 자동 자가진단 서비스 재개
+9월 27일까지 자동 자가진단 시스템이 중단되므로 참고바랍니다.
 
+<hr />
+
+- 본 시스템을 이용함으로써 발생하는 책임은 이용자에게 있습니다. 본 시스템을 이용하면서 서버로 수신되는 개인정보는 서버의 별도 보관 없이 삭제됩니다. 건강상의 이상이 있을 경우에는 직접 자가진단을 하시길 바랍니다.
+
+### Release
+**20220927** - 자동 자가진단 서비스 재개
 
