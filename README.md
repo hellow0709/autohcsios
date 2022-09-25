@@ -2,7 +2,7 @@
   <img width="75" src="https://play-lh.googleusercontent.com/cKIPifwuWHrwrYg2A-fTj2hzQypTfVXFU4SYGZzvx-nGvCpJTDNkrlUfuGCNZwlAXA" alt="icon" align="center">
 
   <h2>건강상태 자가진단 단축어</h2>
-  <a href="https://toss.me/hasuhan" title="개발자 후원하러 가기">
+  <a href="https://toss.me/devlsj" title="개발자 후원하러 가기">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black">
   </a>
 </div>
