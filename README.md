@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black">
   </a>
 </div>
-<br>(다운로드 하기)[https://www.icloud.com/shortcuts/ca4769e46918454b95a2b4f492312dc2]<br>
+<br>[다운로드 하기](https://www.icloud.com/shortcuts/ca4769e46918454b95a2b4f492312dc2)<br>
 ## 서비스 업데이트 안내
 
 9월 28일 이전에 단축어를 다운로드 하신 분은 새로 단축어를 다운로드해주시길 바랍니다.
